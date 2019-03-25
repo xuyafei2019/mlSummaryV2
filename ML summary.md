@@ -1,6 +1,6 @@
 
 @[toc]
-# YFX ML Algorithm Summary---3
+# YFX ML Algorithm Summary---33
 ## 01 Logistic Regression
 1，logistic function or sigmoid function
 $s(t)=\dfrac{1}{1+e^{-t}}$
@@ -242,5 +242,5 @@ cond(no)->op
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1OTcxNDI1XX0=
+eyJoaXN0b3J5IjpbLTE5ODY5OTU0MzIsNTg1OTcxNDI1XX0=
 -->
